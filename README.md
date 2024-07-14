@@ -1,6 +1,7 @@
 ---
 
-# Object Tracking and Segmentation Tool
+# Object Detection and Tracking
+
 
 This repository contains a Jupyter Notebook that uses the ultralytics library to perform object tracking and segmentation on a video using the YOLOv8 model.
 
